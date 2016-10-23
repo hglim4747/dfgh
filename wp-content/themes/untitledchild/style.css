@@ -1,0 +1,18 @@
+/*
+Theme Name:     UntitledChild
+Description:    UntitledChild
+Author:         Gamingwatches
+Template:       untitled
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+#logo {
+    margin: auto;
+    text-align: center;
+    float: initial;
+}
+
+#masthead {
+    text-align: center;
+}
