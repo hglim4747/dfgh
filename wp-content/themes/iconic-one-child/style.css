@@ -1,10 +1,12 @@
 /*
-Theme Name: Iconic One Child Theme
-Description: Theme of Iconic One Child Theme
-Theme URI:
-Author: WordCracker
-Author URI:
-Template: iconic-one
-Version: 1.0.0
+Theme Name:     iconic-one-child
+Description:    iconic-one-child
+Author:         Gamingwatches
+Template:       iconic-one
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
-@import url(../iconic-one/style.css);
+
+#menu-top {
+	background: white !important;
+}
